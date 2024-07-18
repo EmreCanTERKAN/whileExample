@@ -1,1 +1,1 @@
-# whileExample
+While döngüsüyle yapılan örnekler
